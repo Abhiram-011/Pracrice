@@ -1,2 +1,2 @@
 # Pracrice
-Apna college practice
+Apna college practice.
